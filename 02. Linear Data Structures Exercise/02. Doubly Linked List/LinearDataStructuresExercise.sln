@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.DoublyLinkedList", "02.DoublyLinkedList\02.DoublyLinkedList.csproj", "{90EAD99A-FB0E-4C6F-809F-8968BA5AD4D6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.DoublyLinkedList.Tests", "02.DoublyLinkedList.Tests\02.DoublyLinkedList.Tests.csproj", "{0E467613-3488-457A-AD83-C2A5A60B9649}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90EAD99A-FB0E-4C6F-809F-8968BA5AD4D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90EAD99A-FB0E-4C6F-809F-8968BA5AD4D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90EAD99A-FB0E-4C6F-809F-8968BA5AD4D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90EAD99A-FB0E-4C6F-809F-8968BA5AD4D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E467613-3488-457A-AD83-C2A5A60B9649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E467613-3488-457A-AD83-C2A5A60B9649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E467613-3488-457A-AD83-C2A5A60B9649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E467613-3488-457A-AD83-C2A5A60B9649}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1DBF8DA-EECA-451B-8FE0-46734948E9DD}
+	EndGlobalSection
+EndGlobal
